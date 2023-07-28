@@ -1,4 +1,4 @@
-# Project1
+# Project 1: Tableau Data Visualization and Dashboard
 A dashboard on the sales of houses in King County, Washington. 
 
 An interactable version of this dashboard is available [here.](https://public.tableau.com/views/Project1_16905681733410/KingCountyHouseSales?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
